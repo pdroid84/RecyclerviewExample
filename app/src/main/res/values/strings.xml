@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">RecyclerviewExample</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="title">
+        <item>Title 1</item>
+        <item>Title 2</item>
+        <item>Title 3</item>
+        <item>Title 4</item>
+        <item>Title 5</item>
+        <item>Title 6</item>
+        <item>Title 7</item>
+        <item>Title 8</item>
+        <item>Title 9</item>
+        <item>Title 10</item>
+        <item>Title 11</item>
+        <item>Title 12</item>
+        <item>Title 13</item>
+        <item>Title 14</item>
+        <item>Title 15</item>
+        <item>Title 16</item>
+        <item>Title 17</item>
+        <item>Title 18</item>
+        <item>Title 19</item>
+        <item>Title 20</item>
+    </string-array>
+    <string-array name="detail">
+        <item>Detail 1</item>
+        <item>Detail 2</item>
+        <item>Detail 3</item>
+        <item>Detail 4</item>
+        <item>Detail 5</item>
+        <item>Detail 6</item>
+        <item>Detail 7</item>
+        <item>Detail 8</item>
+        <item>Detail 9</item>
+        <item>Detail 10</item>
+        <item>Detail 11</item>
+        <item>Detail 12</item>
+        <item>Detail 13</item>
+        <item>Detail 14</item>
+        <item>Detail 15</item>
+        <item>Detail 16</item>
+        <item>Detail 17</item>
+        <item>Detail 18</item>
+        <item>Detail 19</item>
+        <item>Detail 20</item>
+    </string-array>
+</resources>
